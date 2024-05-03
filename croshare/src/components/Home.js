@@ -28,16 +28,16 @@ const Home = () => {
           <div className="text-sm text-white font-semibold p-2 mr-3 bg-teal-500 rounded-2xl">
             Seasonal
           </div>
-          <div className="text-sm text-white p-2 mr-3 bg-teal-500 rounded-2xl">
+          <div className="text-sm text-white p-2 mr-3 bg-gray-400 rounded-2xl">
             Time
           </div>
-          <div className="text-sm text-white p-2 mr-3 bg-teal-500 rounded-2xl">
+          <div className="text-sm text-white p-2 mr-3 bg-gray-400 rounded-2xl">
             Difficulty
           </div>
-          <div className="text-sm text-white p-2 mr-3 bg-teal-500 rounded-2xl">
+          <div className="text-sm text-white p-2 mr-3 bg-gray-400 rounded-2xl">
             Trending
           </div>
-          <div className="text-sm text-white p-2 mr-3 bg-teal-500 rounded-2xl">
+          <div className="text-sm text-white p-2 mr-3 bg-gray-400 rounded-2xl">
             Rating
           </div>
         </div>

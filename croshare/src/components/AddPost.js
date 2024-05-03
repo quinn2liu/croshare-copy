@@ -78,14 +78,14 @@ const AddPost = () => {
                         <div className='flex flex-row justify-between pt-4'>
                             <div className='flex flex-col items-center w-44'>
                                 <p className='pb-2 text-lg font-semibold font-fredoka'>Diffuculty</p>
-                                <div className='py-2 px-3 w-full flex flex-row justify-between items-center rounded-lg bg-gray-300'>
+                                <div className='py-2 px-3 w-40 text-sm flex flex-row justify-between items-center rounded-lg bg-gray-300'>
                                     <p className='text-gray-500'>Choose Difficulty</p>
                                     <FontAwesomeIcon icon={faCaretDown} className='text-gray-500' />
                                 </div>
                             </div>
                             <div className='flex flex-col items-center w-44'>
                                 <p className='pb-2 text-lg font-semibold font-fredoka'>Stitches</p>
-                                <div className='py-2 px-3 w-full flex flex-row justify-between items-center rounded-lg bg-gray-300'>
+                                <div className='py-2 px-3 w-40 text-sm flex flex-row justify-between items-center rounded-lg bg-gray-300'>
                                     <p className='text-gray-500'>Choose Stitches</p>
                                     <FontAwesomeIcon icon={faCaretDown} className='text-gray-500' />
                                 </div>

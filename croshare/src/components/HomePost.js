@@ -234,7 +234,7 @@ const HomePost = ({
                         className="px-12 bg-blue-500 py-2"
                         style={{ width: `${difficulty * 10}%` }}
                       ></div>
-                      <div className="pl-2 text-xs">12%</div>
+                      <div className="pl-2 text-xs">30%</div>
                     </div>
                     <div className="flex-grow flex flex-row items-center pb-1">
                       <div className="pr-12 text-xs">&lt; 4 hr</div>
@@ -242,7 +242,7 @@ const HomePost = ({
                         className="px-8 bg-blue-500 py-2"
                         style={{ width: `${difficulty * 10}%` }}
                       ></div>
-                      <div className="pl-2 text-xs">12%</div>
+                      <div className="pl-2 text-xs">20%</div>
                     </div>
                     <div className="flex-grow flex flex-row items-center pb-1">
                       <div className="pr-12 text-xs">&lt; 5 hr</div>
@@ -250,7 +250,7 @@ const HomePost = ({
                         className="px-16 bg-blue-500 py-2"
                         style={{ width: `${difficulty * 10}%` }}
                       ></div>
-                      <div className="pl-2 text-xs">12%</div>
+                      <div className="pl-2 text-xs">40%</div>
                     </div>
                     <div className="flex-grow flex flex-row items-center pb-1">
                       <div className="pr-12 text-xs"> &gt; 6 hr</div>
@@ -258,7 +258,7 @@ const HomePost = ({
                         className="px-4 bg-blue-500 py-2"
                         style={{ width: `${difficulty * 10}%` }}
                       ></div>
-                      <div className="pl-2 text-xs">12%</div>
+                      <div className="pl-2 text-xs">10%</div>
                     </div>
                   </div>
                   <FontAwesomeIcon
@@ -272,7 +272,7 @@ const HomePost = ({
                         className="px-16 bg-green-500 py-2"
                         style={{ width: `${difficulty * 10}%` }}
                       ></div>
-                      <div className="pl-2 text-xs">12%</div>
+                      <div className="pl-2 text-xs">45%</div>
                     </div>
                     <div className="flex-grow flex flex-row items-center pb-1">
                       <div className="pr-11 text-xs">Novice</div>
@@ -280,7 +280,7 @@ const HomePost = ({
                         className="px-8 bg-green-500 py-2"
                         style={{ width: `${difficulty * 10}%` }}
                       ></div>
-                      <div className="pl-2 text-xs">12%</div>
+                      <div className="pl-2 text-xs">15%</div>
                     </div>
                     <div className="flex-grow flex flex-row items-center pb-1">
                       <div className="pr-3 text-xs">Intermediate</div>
@@ -288,7 +288,7 @@ const HomePost = ({
                         className="px-12 bg-green-500 py-2"
                         style={{ width: `${difficulty * 10}%` }}
                       ></div>
-                      <div className="pl-2 text-xs">12%</div>
+                      <div className="pl-2 text-xs">25%</div>
                     </div>
                     <div className="flex-grow flex flex-row items-center pb-1">
                       <div className="pr-12 text-xs">Expert</div>
@@ -296,7 +296,7 @@ const HomePost = ({
                         className="px-8 bg-green-500 py-2"
                         style={{ width: `${difficulty * 10}%` }}
                       ></div>
-                      <div className="pl-2 text-xs">12%</div>
+                      <div className="pl-2 text-xs">15%</div>
                     </div>
                   </div>
                 </div>
